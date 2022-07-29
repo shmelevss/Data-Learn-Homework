@@ -27,5 +27,5 @@ ______
 ![7](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/7.jpg)
 8. [Sales and profit by category](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/8.%20SalesAndProfitByCategory.sql)
 ![8](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/8.jpg)
-9. [Sales and profit by time](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/9.%20SalesAndProfitByTime.sql)
+9. [Sales and profit by time](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/9.%20SalesAndProfitByTime.sql)                         
 ![9](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/9.jpg)
