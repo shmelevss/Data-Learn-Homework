@@ -12,6 +12,7 @@ ______
 ## SQL-запросы для заданий из 1 модуля. Полностью соответствуют excel-решению.
 
 1. [Returns](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/1.%20Returns.sql)
+
 ![1](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/1.jpg)
 2. [Sales by region](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.%20SalesByRegion.sql)
 ![2](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/2.jpg)
@@ -28,4 +29,5 @@ ______
 8. [Sales and profit by category](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/8.%20SalesAndProfitByCategory.sql)
 ![8](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/8.jpg)
 9. [Sales and profit by time](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/9.%20SalesAndProfitByTime.sql)
+
 ![9](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/9.jpg)
