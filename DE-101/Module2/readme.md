@@ -7,6 +7,8 @@ ______
 [Returns](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/returns.sql)
 
 [People](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/people.sql)
+
+[BigTable](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/bigtable.sql)
 ______
 
 ## SQL-запросы для заданий из 1 модуля. Полностью соответствуют excel-решению.
