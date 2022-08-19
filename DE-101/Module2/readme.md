@@ -35,40 +35,40 @@ ______
 
 2.4 is not connected to 2.5
 
-[NewSampleDataModel.mwb](https://)  
+[NewSampleDataModel.mwb](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.4NewSampleDataModel.mwb)  
 
 1. Conceptual Data Model
-![Conceptual Data Model](https:)
+![Conceptual Data Model](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/2.4ConceptualDataModel.jpg)
 2. Logical Data Model
-![Logical Data Model](https:)
+![Logical Data Model](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/2.4LogicalDataModel%20.jpg)
 3. Physical Data Model
 describes HOW the system will be implemented using a specific DBMS system
 
-[CreateNewSampleJoined.sql](https://)  
+[CreateNewSampleJoined.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.4CreateNewSampleJoined.sql)  
 
-[DeleteIncorrectRows.sql](https://)  
+[DeleteIncorrectRows.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.4DeleteIncorrectRows.sql)  
 
-[DDL.sql](https://)  
+[DDL.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.4DDL.sql)  
 
-[DML.sql](https://)  
+[DML.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.4DML.sql)  
 
 ## 2.5 - 2.6 Cloud DB Supabase and BI YandexDatalens
 
-[stg.orders.sql](https://)  
+[stg.orders.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5stg.orders.sql)  
 
-[stg.people.sql](https://)  
+[stg.people.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5stg.people.sql)  
 
-[stg.returns.sql](https://)  
+[stg.returns.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5stg.returns.sql)  
 
-[from_stg_to_dw.sql](https://)
+[from_stg_to_dw.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5from_stg_to_dw.sql)
 
 SQL to create a dataset at YandexDatalens
-[JoinedSQL.sql](https://)
+[JoinedSQL.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5JoinedSQL.sql)
 
 There is an option in dashboard settings which is called "Количество одновременно загружаемых виджетов"
-[DecisionOfConnectionsPtoblemWithYandexLens.sql](https://)
+[DecisionOfConnectionsPtoblemWithYandexLens.sql](https://github.com/shmelevss/Data-Learn-Homework/blob/main/DE-101/Module2/2.5DecisionOfConnectionsPtoblemWithYandexLens.sql)
 
-![NewSampleDashboard.jpg](https:)
+![NewSampleDashboard.jpg](https://raw.githubusercontent.com/shmelevss/Data-Learn-Homework/main/DE-101/Module2/2.5NewSampleDashboard.jpg)
 
 
 
