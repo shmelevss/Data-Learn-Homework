@@ -4,4 +4,4 @@ ______
 
 [Module 2 - Базы данных и SQL](https://github.com/shmelevss/Data-Learn-Homework/tree/main/DE-101/Module2)
 
-[Module 3 - Базы данных и SQL](https://github.com/shmelevss/Data-Learn-Homework/tree/main/DE-101/Module2)
+[Module 3 - BI](https://github.com/shmelevss/Data-Learn-Homework/tree/main/DE-101/Module3)
